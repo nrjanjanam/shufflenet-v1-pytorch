@@ -1,1 +1,1 @@
-# shufflenet-v1-pytorch
+# ShuffleNet Implementation using Pytorch
